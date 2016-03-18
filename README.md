@@ -1,4 +1,15 @@
-#Sudoku Solver
+
+#Ruby Magic Night Meetup 
+
+SD Ruby Meetup [Magic Night!](http://www.meetup.com/sdruby/events/140101782/)
+
+my solution is in soduku.rb
+
+---
+
+Problem for the night from [github.com/magicnights](https://github.com/magicnights/soduko-solver)
+
+##Sudoku Solver
 
 
 Sodokus are simple number puzzles that often appear in various sources of print. The puzzle you are given is a 9 x 9 grid of numbers and blanks, that might look something like this:
